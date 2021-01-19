@@ -2,6 +2,7 @@
   "name": "my-sudoku",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ihatedeadline.github.io/109-1-web-deploy-tutorial/",
   "dependencies": {
     "-": "^0.0.1",
     "@material-ui/core": "^4.11.0",
